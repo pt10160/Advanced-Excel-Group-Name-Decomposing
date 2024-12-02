@@ -1,6 +1,6 @@
 # By Zeqi Lai #v1.2.1
 #紧急修复V1.2的输出语法错误
-#基于GAC_XH8_SOMEIP_CMX_ADC_MCU_0712_V1.4.xlsx表格的DataTypeDefinition页
+#基于SOMEIP_CMX_ADC_MCU_.xlsx表格的DataTypeDefinition页
 #自动化寻址脚本，用于解开成员的嵌套关系，输出完整成员名
 #并输出检查用.txt文件，print用.txt文件，if的条件用.txt文件    
 #1.2新增功能：可以识别ARRAY类型的成员，输出头尾的成员名
